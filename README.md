@@ -1,5 +1,9 @@
-Engines: Unity, learning Unreal
+**Engines**: Unity, learning Unreal
 
-Languages: C#, learning C++
+**Languages**: C#, learning C++
 
-Pleasure to meet you! :)
+**Passions**: RPGs, music, art
+
+**Favourite videogames**: BOTW, Octopath Traveler 2, Hades, Fire Emblem 3h
+
+*Pleasure to meet you! :)*
