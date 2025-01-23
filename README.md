@@ -4,6 +4,6 @@
 
 **Passions**: RPGs, music, art
 
-**Favourite videogames**: BOTW, Octopath Traveler 2, Hades, Fire Emblem 3h
+**Favourite videogames**: BOTW, Octopath Traveler 2, Hades, Fire Emblem 3h, Skyrim
 
 *Pleasure to meet you! :)*
