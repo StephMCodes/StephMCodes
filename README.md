@@ -2,7 +2,7 @@
 
 **Languages**: C#, learning C++
 
-**Passions**: RPGs, music, art
+**Passions**: RPGs, coding, music, art
 
 **Favourite videogames**: BOTW, Octopath Traveler 2, Hades, Fire Emblem 3h, Skyrim
 
